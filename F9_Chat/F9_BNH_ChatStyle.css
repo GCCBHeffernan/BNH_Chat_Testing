@@ -60,6 +60,16 @@
      margin: 4px 2px !important;
 }
 
+/*Terminate chat overlay*/
+
+ .ui-overlay-a.in {
+    background: #fff !important;
+}
+
+ .ui-popup-screen.in {
+    opacity: 0.5 !important;
+}
+
 /*Loading icon before form is pulled to client side*/
  div.loading-image {
      width: 100%;
