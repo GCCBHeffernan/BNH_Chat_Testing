@@ -28,7 +28,7 @@
  .ui-header {
      border-width: 0 !important;
      background-color: #0F3149 !important;
-     color: #ff6900 !important;
+     color: #fff !important;
 }
 /*Highlighting around fields for the chat sumbission form*/
  legend, .ui-input-text input, .ui-input-search input {
