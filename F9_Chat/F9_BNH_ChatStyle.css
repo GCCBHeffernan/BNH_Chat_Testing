@@ -56,6 +56,8 @@
  #conversation-page #send-button {
      background-color: #ff6900 !important;
      color: #fff !important;
+     border-radius: 8px !important;
+     margin: 4px 2px !important;
 }
 
 /*Loading icon before form is pulled to client side*/
