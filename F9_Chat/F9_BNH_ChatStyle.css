@@ -53,7 +53,9 @@
 }
 
 /*Active chat "send" button for reply*/
-
+ #send-button {
+     background-color: #ff6900 !important;
+}
 
 /*Loading icon before form is pulled to client side*/
  div.loading-image {
