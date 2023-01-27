@@ -45,6 +45,15 @@
      border: 1px solid #ff6900 !important;
      outline: 0 !important;
 }
+
+/*Active chat message container*/
+ .message-container {
+     background: #cccece !important;
+}
+
+/*Active chat "send" button for reply*/
+
+
 /*Loading icon before form is pulled to client side*/
  div.loading-image {
      width: 100%;
