@@ -65,6 +65,9 @@
  .ui-overlay-a.in {
     background: #fff !important;
 }
+ .ui-popup-screen.in {
+    opacity: 1 !important;
+}
 
 
 /*Loading icon before form is pulled to client side*/
