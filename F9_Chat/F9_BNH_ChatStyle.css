@@ -48,7 +48,8 @@
 
 /*Active chat message container*/
  .message-container {
-     background: #cccece !important;
+     background: #eee !important;
+     border: 1px solid #ccc !important;
 }
 
 /*Active chat "send" button for reply*/
