@@ -29,7 +29,7 @@ if(typeof mw_customer_data === 'undefined'){
 		"name": {
 			"value": "",
 			"show": true,
-			"label": "Name"
+			"label": "First Name"
 		},
 		"email": {
 			"value": "",
